@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IGME-THE-GUY
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning FLutter
+- 👋 Hi, I’m @hassan-software-dev
+- 👀 I’m interested in Flutter and Web Development
+- 🌱 I’m currently learning FLutter and Next JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
